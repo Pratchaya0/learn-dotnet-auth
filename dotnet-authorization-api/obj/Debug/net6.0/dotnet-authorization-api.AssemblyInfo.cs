@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-authorization-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841ff2c997659cb4230ea8b9708599e7a6a0e089")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-authorization-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-authorization-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
